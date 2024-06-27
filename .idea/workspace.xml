@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="028f6ffe-2e17-46b5-b0d8-5ac7ee66c057" name="Changes" comment="Created all four data tables inside DB.">
-      <change afterPath="$PROJECT_DIR$/populate_data_tables_queries.py" afterDir="false" />
+    <list default="true" id="028f6ffe-2e17-46b5-b0d8-5ac7ee66c057" name="Changes" comment="Populated All Four Data Tables.">
+      <change afterPath="$PROJECT_DIR$/read_data_tables_queries.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/create_data_table_queries.py" beforeDir="false" afterPath="$PROJECT_DIR$/create_data_table_queries.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +107,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719496376906</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Populated All Four Data Tables.">
+      <option name="closed" value="true" />
+      <created>1719496938097</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1719496938097</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -115,6 +123,7 @@
     <MESSAGE value="Established connection from Pycharm to MySQL." />
     <MESSAGE value="Created DB from main.py" />
     <MESSAGE value="Created all four data tables inside DB." />
-    <option name="LAST_COMMIT_MESSAGE" value="Created all four data tables inside DB." />
+    <MESSAGE value="Populated All Four Data Tables." />
+    <option name="LAST_COMMIT_MESSAGE" value="Populated All Four Data Tables." />
   </component>
 </project>

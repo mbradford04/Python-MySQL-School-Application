@@ -25,7 +25,8 @@ Libraries Needed In Pycharm:
 (Outline For MD, and corresponding screenshots)
 
 1.) Installed Necessary Dependencies
--insert screenshot
+-![Screenshot (148)](https://github.com/mbradford04/Python_MySQL_CRUD_Operattions_School_Excercise/assets/90769872/233580d5-3047-4099-9a2a-5c2c725c7418)
+
 
 2.) Established connection to mysql
 

@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="028f6ffe-2e17-46b5-b0d8-5ac7ee66c057" name="Changes" comment="Established connection from Pycharm to MySQL.">
-      <change afterPath="$PROJECT_DIR$/create_database_query.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+    <list default="true" id="028f6ffe-2e17-46b5-b0d8-5ac7ee66c057" name="Changes" comment="Created all four data tables inside DB.">
+      <change afterPath="$PROJECT_DIR$/populate_data_tables_queries.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/create_data_table_queries.py" beforeDir="false" afterPath="$PROJECT_DIR$/create_data_table_queries.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,12 +91,30 @@
       <option name="project" value="LOCAL" />
       <updated>1719495515614</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Created DB from main.py">
+      <option name="closed" value="true" />
+      <created>1719496174229</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1719496174229</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Created all four data tables inside DB.">
+      <option name="closed" value="true" />
+      <created>1719496376906</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1719496376906</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Established connection from Pycharm to MySQL." />
-    <option name="LAST_COMMIT_MESSAGE" value="Established connection from Pycharm to MySQL." />
+    <MESSAGE value="Created DB from main.py" />
+    <MESSAGE value="Created all four data tables inside DB." />
+    <option name="LAST_COMMIT_MESSAGE" value="Created all four data tables inside DB." />
   </component>
 </project>

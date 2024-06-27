@@ -1,4 +1,3 @@
-
 create_teacher_table = """
 CREATE TABLE teacher(
 teacher_id INT PRIMARY KEY,
@@ -10,7 +9,6 @@ tax_id int UNIQUE,
 phone_number VARCHAR(20)
 );
 """
-
 create_client_table = """
 CREATE TABLE client(
 client_id INT PRIMARY KEY,
@@ -19,8 +17,6 @@ address VARCHAR(100) NOT NULL,
 industry VARCHAR(30) NOT NULL
 );
 """
-
-
 create_participant_table = """
 CREATE TABLE participant(
 participant_id INT PRIMARY KEY,
@@ -30,8 +26,6 @@ phone_no VARCHAR(20),
 client INT
 );
 """
-
-
 create_course_table = """
 CREATE TABLE course(
 course_id INT PRIMARY KEY,

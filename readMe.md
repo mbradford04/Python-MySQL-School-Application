@@ -1,6 +1,6 @@
 The purpose of this application is to build a database using the language 
 of Python in unison with MySql for creating, reading, updating, and 
-deleting (CRUD Operations) information for a fictional school. The database 
+deleting (CRUD Operations) about data for a fictional school. The database 
 will be comprised of four data tables relating to the clients for the school, 
 actual courses the school provides, participants in the courses, and 
 information for available teachers the school has. 

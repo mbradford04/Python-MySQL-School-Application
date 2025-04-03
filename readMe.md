@@ -12,7 +12,7 @@ Technologies needed:
 Pycharm Integrated Development Environment 3.11.2 (Latest Version Available)
 MySql Command Line 8 (Or latest Verson)
 
-Libraries Needed In Pycharm:
+Extensions Needed In Pycharm:
 
 -mysql
 -mysql-connector
